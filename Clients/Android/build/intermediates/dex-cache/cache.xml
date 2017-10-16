@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\fbba18f088e8e9c2ed44a75f2cbe2b8b1cb13f5a\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_4922d794d989061bbf6d597e1d59969eb9906fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\38b5d692eb49c23e91b2d6dc91d5bd4a5cf30d4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_781f0f9814fa47d49f2ad5b0f9a84207a7bda430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\c02939a2e564e10520992e9bcd855e24198eae92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8484428aa1de5fa0518cb3f7d753b4b2fb465186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\6c81bef5bb4c72cf8e896a304626a120e5195c47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_006821aae56d3d9124f0e5633555de5812b94dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\db74b331a69077250ccb8624436b58b6265b2d01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4162494258f7d41397f0bc33e14c778746a7a6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\dcca0821970e0cfb60b25be347833de242097ce2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f697c9062742123a3489184e76e0ac2fefb66376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\dcbf3097130397ed3b6b20a51f4b451e13c8f7e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b7500ee404f5fa851c04dda1304e42d37049ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_84105a040b7807df9e56b2358eb623a8552147d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\638cd32e071ad3bf174d6d777d250d08ac6548d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec5d88bae4740b76ee9a1b4412b1bc2619732528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\2adbd1faaabbe6dafac0c940b97cd0d8e459c65c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08f28e7414c78ae49beda8755cc5574dd515e7fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73c7247f40bdcdcaa42215749dd14c38e2148bc1">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f9c06462b42934aaf6d80865cf1876709ec9c28a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\4522787e1d72cca96d4c0cde41c4a7b7cb064a7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277133ced3d049079d65ae3f9018124a1bf5d697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\b319a2047ff3c3b3254078f3693fefad41f3301f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c6a975c3285e420a4338476c68e057a0e669b1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\6d1b02d9e4a128e1c95647f9b3379d93ce57fdfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_625d0ef112f281c06aa08aad92e580a32e102eb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\ef6b1ab198371c5937e948016859abd7090e2db5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e160198c7e1262c221ea32e47098708076f2eb5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\5f505c72f911e2ad98041a518ed7da71e92dacca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ba105d51252847e44cfd3ff737e0b29e699d1c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8a57f9999ac2028dac427e00cd754d5fd09555e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\5204c43504b3ba7faa25ad2ec2757a0d0808550e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea27f2bdc2f678a4e14bb400dfb8c03acdf505ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\861274677d9262b94e4acfa5d1c19b5eb95518f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eb7477bd6ddf8e861bb3976434bba09d57d0a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\09461d620c1a1e209c63398e00d10b548d805895\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61e09542af80fcc528403e39de1114a2f1200351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\8864aadd0a42744f90cdd5df553378b31e6e2cda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68f75f7cea931e69ff0c5029c82af2ab33762b20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\61c7931bffa53e6bbf0e75ecff0c9cd4f4a80d43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a55d392510531304327fa052cae61f6628d7c222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\f4bebfcb117002db56334cdbce50fa4563903600\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d1f61b37e8f7c81cf5f735c3ec524001c3ec0db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\fe1ac7f19cce533885301c2dac7ed0d9adcd69b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7bc5e049e3f5811c7639e5487d2d06b10704214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\30e386dbda9a90f04b408ac90f5a5b21dd525262\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a235b2073eecd6068e482249296fe1d821944f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\ca5284afe2c23708171b3e2ce487e0fc4c1a3790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d10d48948e413989ffa1e34b0d5717981acca7af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\49ecb7d47a939dda63112c326f9407d7cbaab28a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2ccc03daf4a46f343fe3f98c87ea1db9d761849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\191e0c1d968c13f4936b3a35c46136da0d20f84a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79513dbb6055d79b82c12ceabb4caa29a49f20b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\99817de5942b336bcd705b9b0cf0b6616d8b09a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d52eaf90cce36e33d8b0cbe1da2bff3d54770ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\5962d3544e3cc0479dfc6bbd013fd7fb629e8a8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a1d22d633a8c99748d8c66da0124e974d0c053f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\13cd0eaa4e6d49648c6e5b6baf4010e85fde3e56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f98957d41e73cadc664317bf021decb0a4e62e50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\c06301fd77f9983f2c7c45108ea184f7ba4cb537\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c92122ee743b283b9a7a1a4b80c05963a60c1328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\be56445b2c211a1aa49917bf5d11e9c98f3389ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59416e1fa721d270b41e307272eac46e710964d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\e01ccc206932fe6b18007d38ae96bcc56b0ba9a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09addb484935caa0235b1b666f4dd747626e8319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\9975039858508fa1a00c4bf40510fc6add14208d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03555acd8e01e35485291e3ba2515449812a452d">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14af27f8668e441dc90b03cbc14b44e0641af07b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\0662751521df71c07905ce020d8ce0b5a25af796\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98f2fd6b3e37b2877c97155702fc3bf5c0ff2b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\cbdcc765e785a5cadd236c54e9534d3cc9e0e033\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_275620aee02eae3ef65aeff285c64aa1142c4b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.0\76d5ab52302434606c732539314290db91ebf25\okhttp-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="076d5ab52302434606c732539314290db91ebf25">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.0_5f9c749d4043d86343ea96ee151acb9969180b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\88638525384b9b53d8c62a9b6c8b7d3f1c783417\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b72a742268a8078f22d2929617a5e002fac081ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\1ff7bdac478fc05560dfa2ff17b264d2eaccdfe3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38b4d75227af6db571039aa00823c9183087a0ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\3531cd3c76b16a63ce7ab01e980bdfd526971f61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd97a40f0db63e74082c14bb6dc0f916d17916e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\3addd8474e702bcf53630f3910cee0cbb0ebf38b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebc43acc7e853b77d9a0b68a17ee5b0ed97f0f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\4380c0e3b15545731e33bc53c72ea8b85ddf8b3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b283ff9cc1d9b1358ae5774526f0f62639d6b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\96c521a71d742fa763855374d7400e28854b0733\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_492f21c7e390794cb993e219df217642fa573019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\08ba01828ee3b63efc2fbe768e5decdf424b3b64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca0358b47f2b540f9cbcd93f695f7ad266304e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\e6c733fedd65f7c595c6243e734075ddaf3525ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e17020b96c3925f3674c42998941499c3b0f417b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\37687c3a6b441ef792810ea7d5f5d6e2c9e9beab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d64330ac98d72cb764c32c861f5c3acd155d0d84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_7ed19529dbc0de1e18ddb3ccdc0ddd9090f47904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\be54f50b54999330cc18e9d75c1a0ab21460e66c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82a46ac9322e4dc0bbed0e5d52e2903b08c55207\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\fbba18f088e8e9c2ed44a75f2cbe2b8b1cb13f5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a6c9aae26f2f2e1dbf31a50bd4d839be9d86a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\58379bef7f3ea233eb5d6445301f766b326264ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb5addcf29ec0f677346aa9f740c7d56f457a6d9">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc80e1cb4b9355c3cf743f7a9a20e2b77f0d2b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\85c9978ddfa8de5d2b5fa366ca65f867eb3d82c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa132d4ef026a7fc0145e7974666a48ecbe0f36a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\9d51713e0ad9cdcf07a8ca544ee30eb62f525458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f84b742d7a172031291e1df0357f3796f1d1b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\65e3b00e17cc792709b9934272af3458909c06e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed4f4fb6f8417db6b8a95f192486923d8fb05582\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\fb9eb58dd8d300708ebf3db4390e1ca232730dd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a7d48e482bc73cd5cfac061f0153bffdc8b4bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\249103997e0dd79450e7afd3da5652f442bd70fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a2e09a9a3bc0fb637c06977013dc956386440ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\0f268b391a2deba406954358ed466bb5f450d769\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_404af5cd7844d83955ab0cc8be0113211d132849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\910cd94888e41e0a1333f085eebc221b131a5a7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5d58a1d81f43dc99aeb3dfebe39497e53aad4f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\99182ff1e736fba019aecd350394a32415975cdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c24395ebe4700fa2a85217ae1cc77d1dc1aa2fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\3eac2ef9673739c75d3a5caf8f8775226402feb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20a7d744b461fec172fb8cc5c76d0f01edbdd461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\2ae081c5c6380d6a781aa76d3192253d1e35f0a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cb7ac546c0b27482456a89575c583b4b4312c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\24916c8505e04edf9ea7d078eb1a8dd2c6cec485\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6321c85c645caf4331e2df3b6cd2308276206d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\32e9d357d6709122b94e7b7e538e3d0f6c324b64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8228f85d46324c65f2b15c696cdb2db366638a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\ed8063be7acf476804d1773a781ff473eec088c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc2f1d4fe9a105104aa4f2e95d8f878334bdb8d6">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78a415b9572d7bc921052ab99ed21a120979d494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\22ae8149c101714e5bd872fbeca5b48e93381288\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c17a6f9cb1283ac20c983f1e784f21b694aff0bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\7efcd22a0329321aaac05b4cf44e6abc085bcb9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f3a0c57dd8a53b0c70237fd15aed61f967223d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\50ceb9b7bafea274eccd573d002c30d50f0f27f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f241ccc8c4b5c45fe3160a79aac492d5deb197d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\a46aa666d69e296f6b4c1c19b15e8d4760f70877\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80523966160001a582669a93ee37b4cf9600d137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\e700244a505164e91b2a6c05be4b8f1687c325bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bdbdb7abea89f47f50c23c3cd819b1225a4e065\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\5b6f79f727526262a48cbab45d60a5ad8b7d5790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efa55d8b2df7bff2a0121857e405bf054f75515f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\d6ac494c1fc9f346b541f1a74f3f459078cf1609\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_652986e6ee23e3da1ada53962168f90ce37db533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\f8a11e589a6f1ab09dbd3e612e9f392a4f205c1c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6d7dc9d886f8e718e93df369914f2b62b8f6f27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\79c9d3feda7f77e824103e4df3d440929fa4b564\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3cf7eaf0d68afc110a762137c949700bbf47a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.android\build-cache\84833c6538f7e33a2fd328cb0c5483ec91e74bfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b043863aee086d74270de8f62987d8b7e7a559b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mark0\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="D:\Clouds\MegaNZ\University 5th grade\Labs\Методологія ПЗ\2 лаба\Applications\Mobile\EasyUkrainian\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.5_da97b7a4289c83707bba6627d915faab7db0848b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-clearcut-10.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/09461d620c1a1e209c63398e00d10b548d805895/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/09461d620c1a1e209c63398e00d10b548d805895/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
