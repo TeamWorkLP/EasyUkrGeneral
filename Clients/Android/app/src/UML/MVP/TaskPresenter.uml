@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="271.0" y="571.0">Infrastructure.Tasks.Sessions.VocabularySession</node>
+    <node x="522.0" y="560.0">Infrastructure.Tasks.Sessions.GrammarSession</node>
+    <node x="306.0" y="1093.0">MVP.Presenters.VocabularyTaskPresenter</node>
+    <node x="743.0" y="1126.0">MVP.Presenters.GrammarTaskPresenter</node>
+    <node x="0.0" y="560.0">Infrastructure.Tasks.Sessions.ExamSession</node>
+    <node x="507.0" y="191.0">Infrastructure.Tasks.Sessions.GameSession</node>
+    <node x="421.0" y="0.0">Infrastructure.Tasks.Sessions.ITaskSession</node>
+    <node x="0.0" y="1148.0">MVP.Presenters.ExamTaskPresenter</node>
+    <node x="302.5" y="724.0">MVP.Presenters.TaskPresenter</node>
+    <node x="286.0" y="302.0">Infrastructure.Tasks.Sessions.TaskSession</node>
+    <node x="1136.0" y="724.0">MVP.Presenters.GamePresenter</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Infrastructure.Tasks.Sessions.GrammarSession" target="Infrastructure.Tasks.Sessions.TaskSession">
+      <point x="0.0" y="-59.5" />
+      <point x="647.5" y="535.0" />
+      <point x="453.5" y="535.0" />
+      <point x="67.0" y="48.5" />
+    </edge>
+    <edge source="Infrastructure.Tasks.Sessions.ExamSession" target="Infrastructure.Tasks.Sessions.TaskSession">
+      <point x="0.0" y="-59.5" />
+      <point x="125.5" y="535.0" />
+      <point x="319.5" y="535.0" />
+      <point x="-67.0" y="48.5" />
+    </edge>
+    <edge source="Infrastructure.Tasks.Sessions.TaskSession" target="Infrastructure.Tasks.Sessions.ITaskSession">
+      <point x="0.0" y="-48.5" />
+      <point x="386.5" y="166.0" />
+      <point x="488.75" y="166.0" />
+      <point x="-67.75" y="70.5" />
+    </edge>
+    <edge source="MVP.Presenters.GrammarTaskPresenter" target="MVP.Presenters.TaskPresenter">
+      <point x="0.0" y="-59.5" />
+      <point x="917.0" y="1068.0" />
+      <point x="655.8333333333334" y="1068.0" />
+      <point x="141.33333333333337" y="159.5" />
+    </edge>
+    <edge source="Infrastructure.Tasks.Sessions.VocabularySession" target="Infrastructure.Tasks.Sessions.TaskSession">
+      <point x="0.0" y="-48.5" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="MVP.Presenters.VocabularyTaskPresenter" target="MVP.Presenters.TaskPresenter">
+      <point x="0.0" y="-92.5" />
+      <point x="0.0" y="159.5" />
+    </edge>
+    <edge source="Infrastructure.Tasks.Sessions.GameSession" target="Infrastructure.Tasks.Sessions.ITaskSession">
+      <point x="0.0" y="-159.5" />
+      <point x="726.5" y="166.0" />
+      <point x="624.25" y="166.0" />
+      <point x="67.75" y="70.5" />
+    </edge>
+    <edge source="MVP.Presenters.ExamTaskPresenter" target="MVP.Presenters.TaskPresenter">
+      <point x="0.0" y="-37.5" />
+      <point x="143.0" y="1068.0" />
+      <point x="373.16666666666663" y="1068.0" />
+      <point x="-141.33333333333337" y="159.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4707933740191805" x="1112.3814814814814" y="966.4685185185185" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
