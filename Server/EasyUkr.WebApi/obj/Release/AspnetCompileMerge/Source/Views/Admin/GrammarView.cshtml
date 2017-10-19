@@ -1,0 +1,59 @@
+﻿@model List<EasyUkr.DataAccessLayer.Entities.Grammar.GrammarTopic>
+@{
+    ViewBag.Title = "Grammars";
+}
+<link rel="stylesheet" href="~/Content/EasyUkrStyles/Common.css" type="text/css" />
+<link rel="stylesheet" href="~/Content/EasyUkrStyles/Table.css" type="text/css" />
+<link rel="stylesheet" href="~/Content/Site.css" type="text/css" />
+<body>
+    <div class="container" style="text-align: center;width: 350px">
+        <h2>Grammars</h2>
+        <ul class="list-group">
+            @foreach (var item in Model)
+            {
+                if (item != null)
+                {
+                    <li class="list-group-item" style="margin-bottom: 2px">
+                        <a href="@Url.Action("GrammarTasksView", new {id = item.Id})">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <div style="vertical-align: middle">
+                                            @Html.LabelForModel(item.HeaderUkr + "\n")
+                                            @Html.LabelForModel(item.TranslateEng + "\n")
+                                            <br/>
+                                            <br/>
+                                            <a href="@Url.Action("OpenDoc", "Extension", new {file = item.FileAdress})" target="_blank"  class="btn btn-primary btn-md">Open file here</a>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("DeleteGrammar", "Grammar", new {id = item.Id})">
+                                            <img class="web-icon" src="~/Content/Web_Buttons/garbage.png"/>
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </li>
+                }
+            }
+                </ul>
+        <a href="@Url.Action("CreateGrammar", "Grammar")"  class="btn btn-primary btn-md">Add grammar</a>
+        @{
+            if ((TempData["TopicSuccess"] != null && (bool)TempData["TopicSuccess"]) || (TempData["DelSuccess"] != null && (bool)TempData["DelSuccess"]))
+            {
+                <text>
+                    <script type="text/javascript">
+                        alert('Дані оновлені');
+                    </script>
+                </text>
+                TempData["TopicSuccess"] = false;
+            }
+        }
+        <br/>
+        <div>
+            <a href="@Url.Action("AdminPage", "Admin")" class="btn btn-primary btn-md">Back to main page</a>
+        </div>
+    </div>
+</body>
+
