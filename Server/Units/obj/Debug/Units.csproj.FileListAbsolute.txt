@@ -1,0 +1,14 @@
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\Units.dll
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\Units.pdb
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\obj\Debug\Units.dll
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\obj\Debug\Units.pdb
+D:\MegaCLOUD\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\obj\Debug\Units.csprojResolveAssemblyReference.cache
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\Units.dll
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\Units.pdb
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\obj\Debug\Units.dll
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\obj\Debug\Units.pdb
+D:\MEGA\NULP_Jobs\Дипломна\Проект\EasyUKR\Units\obj\Debug\Units.csprojResolveAssemblyReference.cache
