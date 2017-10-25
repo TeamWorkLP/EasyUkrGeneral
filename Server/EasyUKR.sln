@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUkr.WebApi", "EasyUkr.WebApi\EasyUkr.WebApi.csproj", "{82994E7C-4AF0-4486-AFF2-F43FD84E3A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUkr.DataAccessLayer", "EasyUkr.DataAccessLayer\EasyUkr.DataAccessLayer.csproj", "{800BC251-51E2-4612-9008-FE67B01CA019}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyUkr.DataAccessLayer", "EasyUkrainian.DAL\EasyUkr.DataAccessLayer.csproj", "{800BC251-51E2-4612-9008-FE67B01CA019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE6BC10-735F-4781-B2E7-B71FE656E431}
 	EndGlobalSection
 EndGlobal

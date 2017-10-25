@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="EasyUkrNew-Web.config Connection String" description="EasyUkrNew Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="data source=tcp:markan.database.windows.net,1433;initial catalog=EasyUkrNew;persist security info=True;user id=markan@markan;password=kuchmynda!95;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="D:\\MEGA\\UNIVERSITY\\Diploma\\Applications\\Admin\\EasyUKR\\EasyUkr\.WebApi\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EasyUkrNew']/@connectionString" />
-  </parameter>
-  <parameter name="EasyUkrNew_DatabasePublish-Web.config Connection String" description="EasyUkrNew_DatabasePublish Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="EasyUkrNew_DatabasePublish.ConnetionString" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="D:\\MEGA\\UNIVERSITY\\Diploma\\Applications\\Admin\\EasyUKR\\EasyUkr\.WebApi\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EasyUkrNew_DatabasePublish']/@connectionString" />
-  </parameter>
-</parameters>

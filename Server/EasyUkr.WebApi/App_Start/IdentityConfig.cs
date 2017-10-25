@@ -1,11 +1,9 @@
-﻿using System.Threading.Tasks;
-using EasyUkr.DataAccessLayer.Contexts;
+﻿using EasyUkr.DataAccessLayer.Contexts;
 using EasyUkr.DataAccessLayer.Entities.User;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
-using EasyUkr.WebApi.Models;
 
 namespace EasyUkr.WebApi
 {
